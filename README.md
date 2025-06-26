@@ -1,2 +1,0 @@
-# Minesweeper
-It's Minesweeper
